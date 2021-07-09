@@ -1,4 +1,5 @@
 # Vocabulary-Bot
-Software : Python 3.9
-           ngrok
+Software : 1. ```Python 3.9```
+           2. ```ngrok```
+Dictionary API Used : ```Merriam Webster```
    
